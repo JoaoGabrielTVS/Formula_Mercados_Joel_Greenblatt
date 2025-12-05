@@ -110,7 +110,8 @@ Usado o do investsite.
 
 **Tabela Após Transformação:**
 
-`![Gráfico de backtest](images/chart_backtest.png)`
+<img width="483" height="361" alt="resultado" src="https://github.com/user-attachments/assets/810c0033-cfb0-4925-9c2c-94942dba152d" />
+
 
 
 
